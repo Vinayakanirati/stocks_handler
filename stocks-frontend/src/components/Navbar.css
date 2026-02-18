@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #343a40;
+    padding: 10px 20px;
+    color: white;
+}
+
+.navbar-brand a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
